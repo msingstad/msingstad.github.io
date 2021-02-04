@@ -18,7 +18,7 @@
 
     Your site is now running at `http://localhost:8000`!
 
-    ## 🧐 What's inside?
+  ## 🧐 What's inside?
 
 
 1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
