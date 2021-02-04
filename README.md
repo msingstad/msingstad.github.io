@@ -5,7 +5,8 @@
   </a>
 </p>
 <!-- AUTO-GENERATED-CONTENT:END -->
-## 🚀 Quick start
+
+  ## 🚀 Quick start
 
 1.  **Start developing.**
 
