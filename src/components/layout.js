@@ -39,7 +39,9 @@ const Layout = ({ children }) => {
         }}>
           © Martin Singstad {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <a href="https://www.gatsbyjs.com">Gatsby</a>. Data retrieved from
+          {` `}
+          <a href="https://github.com/msingstad">Github</a>
         </footer>
       </div>
     </>
